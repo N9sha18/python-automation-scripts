@@ -1,2 +1,15 @@
-# python-automation-scripts
-A collection of scripts to automate daily tasks and solve workflow issues
+# 🐍 Python Automation Scripts
+
+A collection of high-utility scripts designed to solve real-world efficiency problems.
+
+## 📂 Project 1: File Organizer
+**The Problem:** Downloads and working directories often become cluttered with mixed file types, reducing productivity.
+**The Solution:** An automated script (`file_organizer.py`) that scans a directory and intelligently sorts files into folders (Images, Docs, Code, etc.) based on extension.
+
+### 🚀 How to Run
+1. Clone the repo.
+2. Run `python file_organizer.py` in the target directory.
+3. Watch your files get organized instantly!
+
+---
+*Created by N9sha18
