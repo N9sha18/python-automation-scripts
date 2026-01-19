@@ -13,3 +13,12 @@ A collection of high-utility scripts designed to solve real-world efficiency pro
 
 ---
 *Created by N9sha18
+
+## 📂 Project 2: Web Scraper
+**The Problem:** Collecting data (like prices, quotes, or news) manually is tedious and error-prone.
+**The Solution:** A script (`web_scraper.py`) that utilizes `BeautifulSoup` to parse HTML and extract structured data into a CSV file.
+
+### 🚀 How to Run
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run `python web_scraper.py`
+3. Check `quotes_data.csv` for the results.
